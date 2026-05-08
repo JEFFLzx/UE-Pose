@@ -1,5 +1,5 @@
 # UE-Pose
-Uncertainty-Driven Cross-Modal Fusion of Event and RGB Imagery for Spacecraft Pose Estimation
+This repository provides the official code and dataset for our paper "UE-Pose: Uncertainty-Driven Cross-Modal Fusion of Event and RGB Imagery for Spacecraft Pose Estimation".
 
 ## FRESH dataset：
 
